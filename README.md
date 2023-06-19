@@ -35,4 +35,4 @@ Meu Repositorio de atividades do curso!
 
 [Android](https://lucasfregolente.github.io/html-css/desafios/d010-correcao/android.html)
 
-[Cordel](https://lucasfregolente.github.io/html-css/desafios/d012-correcao/android.html)
+[Cordel](https://lucasfregolente.github.io/html-css/desafios/d012-correcao/index.html)
