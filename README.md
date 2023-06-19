@@ -3,6 +3,6 @@ Repositorio de atividades do curso!
 
 ## Lista de Atividades Basicas
 
-[Exercicio 001] (https://lucasfregolente.github.io/html-css/exercicios/ex001/index.html)
+[Exercicio001](https://lucasfregolente.github.io/html-css/exercicios/ex001/index.html)
 
 <a src="https://lucasfregolente.github.io/html-css/exercicios/ex001/index.html" target="_blank"> Exercicio 001</a>
