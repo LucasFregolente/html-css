@@ -29,7 +29,19 @@ Meu Repositorio de atividades do curso!
 
 [Exercicio015](https://lucasfregolente.github.io/html-css/exercicios/ex015/index.html) "Estilos Externos"
 
+[Exercicio016](https://lucasfregolente.github.io/html-css/exercicios/ex016/cor01.html) "Aprendendo a usar as cores!"
 
+[Exercicio017](https://lucasfregolente.github.io/html-css/exercicios/ex017/fonte01.html) "introdução as fontes"
+
+[Exercicio018](https://lucasfregolente.github.io/html-css/exercicios/ex018/font01.html) "Fontes externas/ internas"
+
+[Exercicio019](https://lucasfregolente.github.io/html-css/exercicios/ex019/seletor01.html) "Seletores!"
+
+[Exercicio020](https://lucasfregolente.github.io/html-css/exercicios/ex020/hover.html) "classes!"
+
+[Exercicio021](https://lucasfregolente.github.io/html-css/exercicios/ex021/caixa01.html) "Modelo de caixas"
+
+[Exercicio022](https://lucasfregolente.github.io/html-css/exercicios/ex022/fundo001.html) "Background-image"
 
 ### Primeiros sites!
 
