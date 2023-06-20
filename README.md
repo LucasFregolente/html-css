@@ -43,6 +43,8 @@ Meu Repositorio de atividades do curso!
 
 [Exercicio022](https://lucasfregolente.github.io/html-css/exercicios/ex022/fundo001.html) "Background-image"
 
+[Exercicio023](https://lucasfregolente.github.io/html-css/exercicios/ex023/index.html) "Usando Tabelas"
+
 ### Primeiros sites!
 
 [Android](https://lucasfregolente.github.io/html-css/desafios/d010-correcao/android.html)
