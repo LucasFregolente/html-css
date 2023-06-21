@@ -26,6 +26,7 @@ As Atividades estão divididas de forma que eu possa acessar elas da forma clara
 
 [Cordel](https://lucasfregolente.github.io/html-css/desafios/d012-correcao/index.html)
 
+<hr>
 
 ### Lista de Atividades Basicas
 
@@ -71,6 +72,8 @@ As Atividades estão divididas de forma que eu possa acessar elas da forma clara
 
 [Exercicio023](https://lucasfregolente.github.io/html-css/exercicios/ex023/index.html) "Usando Tabelas"
 
+<hr>
+
 ### Desafios (Testes de aprendizagem)
 
 [Desafio001](https://lucasfregolente.github.io/html-css/desafios/d001/index.html)
@@ -108,4 +111,6 @@ As Atividades estão divididas de forma que eu possa acessar elas da forma clara
 
 [Desafio0014](https://lucasfregolente.github.io/html-css/desafios/d0014/index.html)
 "Trabalhando com tabelas 2"
+
+<hr>
 
