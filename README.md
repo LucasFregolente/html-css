@@ -1,6 +1,14 @@
 # HTML5 e CSS3
 Meu Repositorio de atividades do curso!
 
+
+### Primeiros sites!
+
+[Android](https://lucasfregolente.github.io/html-css/desafios/d010-correcao/android.html)
+
+[Cordel](https://lucasfregolente.github.io/html-css/desafios/d012-correcao/index.html)
+
+
 ### Lista de Atividades Basicas
 
 [Exercicio001](https://lucasfregolente.github.io/html-css/exercicios/ex001/index.html) "Ola Mundo"
@@ -45,8 +53,41 @@ Meu Repositorio de atividades do curso!
 
 [Exercicio023](https://lucasfregolente.github.io/html-css/exercicios/ex023/index.html) "Usando Tabelas"
 
-### Primeiros sites!
+### Desafios (Testes de aprendizagem)
 
-[Android](https://lucasfregolente.github.io/html-css/desafios/d010-correcao/android.html)
+[Desafio001](https://lucasfregolente.github.io/html-css/desafios/d001/index.html)
+"Desafio das Mensagens"
 
-[Cordel](https://lucasfregolente.github.io/html-css/desafios/d012-correcao/index.html)
+[Desafio002](https://lucasfregolente.github.io/html-css/desafios/d002/index.html)
+"Desafio das Imagens"
+
+[Desafio003](https://lucasfregolente.github.io/html-css/desafios/d003/index.html)
+"Organize o Mapa"
+
+[Desafio004](https://lucasfregolente.github.io/html-css/desafios/d004/index.html)
+"Usando Emjois"
+
+[Desafio005](https://lucasfregolente.github.io/html-css/desafios/d005/index.html)
+"Fale sobre vc!"
+
+[Desafio006](https://lucasfregolente.github.io/html-css/desafios/d006/index.html)
+"Tags HTML"
+
+[Desafio007](https://lucasfregolente.github.io/html-css/desafios/d007/index.html)
+"Imgaem flexivel"
+
+[Desafio008](https://lucasfregolente.github.io/html-css/desafios/d008/index.html)
+"Criando paginas de navegação"
+
+[Desafio009](https://lucasfregolente.github.io/html-css/desafios/d009/index.html)
+"Minha playlist de videos legais!"
+
+[Desafio0011](https://lucasfregolente.github.io/html-css/desafios/d0011/index.html)
+"Centralizando imagens de fundo"
+
+[Desafio0013](https://lucasfregolente.github.io/html-css/desafios/d0013/index.html)
+"Trabalhando com tabelas"
+
+[Desafio0014](https://lucasfregolente.github.io/html-css/desafios/d0014/index.html)
+"Trabalhando com tabelas 2"
+
