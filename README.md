@@ -11,7 +11,7 @@ Agradeço ao curso em vídeo por disponibilizar esse conteudo todo gratuitamente
 
 As Atividades estão divididas de forma que eu possa acessar elas da forma clara
 
-<ul style="list-style-type:🔵">
+<ul style="list-style-type: &#x1F535;">
 
 <li><strong> Primeiro Sites </strong> - São os maiores proejetos realizados no curso; </li>
 
@@ -20,6 +20,7 @@ As Atividades estão divididas de forma que eu possa acessar elas da forma clara
 <li> <strong> Desafios </strong> - Atividades posteriores para a validação de conhecimento.</li>
 
 </ul>
+
 ### Primeiros sites!
 
 [Android](https://lucasfregolente.github.io/html-css/desafios/d010-correcao/android.html)
