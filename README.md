@@ -7,8 +7,6 @@ Agradeço ao curso em vídeo por disponibilizar esse conteudo todo gratuitamente
 
 ## Sumário de Atividades
 
-
-
 As Atividades estão divididas de forma que eu possa acessar elas da forma clara
 
 <ul>
@@ -19,6 +17,8 @@ As Atividades estão divididas de forma que eu possa acessar elas da forma clara
 <li> <strong> Desafios </strong> - Atividades posteriores para a validação de conhecimento.</li>
 
 </ul>
+
+<hr>
 
 ### Primeiros sites!
 
