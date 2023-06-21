@@ -12,7 +12,9 @@ Agradeço ao curso em vídeo por disponibilizar esse conteudo todo gratuitamente
 As Atividades estão divididas de forma que eu possa acessar elas da forma clara
 
 🔵 <strong> Primeiro Sites </strong> - São os maiores proejetos realizados no curso;
+
 🔵 <strong> Lista de Atividades Basicas </strong> - São as demais atividades realizadas na aula;
+
 🔵 <strong> Desafios </strong> - Atividades posteriores para a validação de conhecimento.
 
 ### Primeiros sites!
