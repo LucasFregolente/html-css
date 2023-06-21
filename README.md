@@ -1,6 +1,11 @@
 # HTML5 e CSS3
-Meu Repositorio de atividades do curso!
+Meu Repositorio de atividades do curso de HTML5 e CSS3! 
 
+Agradeço ao curso em vídeo por disponibilizar esse conteudo todo gratuitamente, e esse repositorio é uma representação do meu compromentimento com meu aprendizado.
+
+<hr>
+
+## Sumario de Atividades
 
 ### Primeiros sites!
 
