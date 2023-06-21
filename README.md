@@ -11,12 +11,15 @@ Agradeço ao curso em vídeo por disponibilizar esse conteudo todo gratuitamente
 
 As Atividades estão divididas de forma que eu possa acessar elas da forma clara
 
-🔵 <strong> Primeiro Sites </strong> - São os maiores proejetos realizados no curso;
+<ul>
 
-🔵 <strong> Lista de Atividades Basicas </strong> - São as demais atividades realizadas na aula;
+<li>🔵 <strong> Primeiro Sites </strong> - São os maiores proejetos realizados no curso; </li>
 
-🔵 <strong> Desafios </strong> - Atividades posteriores para a validação de conhecimento.
+<li>🔵 <strong> Lista de Atividades Basicas </strong> - São as demais atividades realizadas na aula; </li>
 
+<li>🔵 <strong> Desafios </strong> - Atividades posteriores para a validação de conhecimento.</li>
+
+</ul>
 ### Primeiros sites!
 
 [Android](https://lucasfregolente.github.io/html-css/desafios/d010-correcao/android.html)
