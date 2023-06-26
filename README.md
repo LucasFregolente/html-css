@@ -26,6 +26,8 @@ As Atividades estão divididas de forma que eu possa acessar elas da forma clara
 
 [Cordel](https://lucasfregolente.github.io/html-css/desafios/d012-correcao/index.html)
 
+[Projeto-midia-social](https://lucasfregolente.github.io/html-css/desafios/d0015/index.html)
+
 <hr>
 
 ### Lista de Atividades Basicas
@@ -71,6 +73,8 @@ As Atividades estão divididas de forma que eu possa acessar elas da forma clara
 [Exercicio022](https://lucasfregolente.github.io/html-css/exercicios/ex022/fundo001.html) "Background-image"
 
 [Exercicio023](https://lucasfregolente.github.io/html-css/exercicios/ex023/index.html) "Usando Tabelas"
+
+[Exercicio024](https://lucasfregolente.github.io/html-css/exercicios/ex023/index.html) "Usando iframes!"
 
 <hr>
 
