@@ -74,7 +74,7 @@ As Atividades estão divididas de forma que eu possa acessar elas da forma clara
 
 [Exercicio023](https://lucasfregolente.github.io/html-css/exercicios/ex023/index.html) "Usando Tabelas"
 
-[Exercicio024](https://lucasfregolente.github.io/html-css/exercicios/ex023/index.html) "Usando iframes!"
+[Exercicio024](https://lucasfregolente.github.io/html-css/exercicios/ex024/index.html) "Usando iframes!"
 
 <hr>
 
