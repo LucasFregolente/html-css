@@ -26,7 +26,7 @@ As Atividades estão divididas de forma que eu possa acessar elas da forma clara
 
 [Cordel](https://lucasfregolente.github.io/html-css/desafios/d012-correcao/index.html)
 
-[Projeto-midia-social](https://lucasfregolente.github.io/html-css/desafios/d0015/index.html)
+[Projeto-midia-social](https://lucasfregolente.github.io/html-css/desafios/d015/index.html)
 
 <hr>
 
@@ -107,13 +107,13 @@ As Atividades estão divididas de forma que eu possa acessar elas da forma clara
 [Desafio009](https://lucasfregolente.github.io/html-css/desafios/d009/index.html)
 "Minha playlist de videos legais!"
 
-[Desafio0011](https://lucasfregolente.github.io/html-css/desafios/d0011/index.html)
+[Desafio011](https://lucasfregolente.github.io/html-css/desafios/d011/index.html)
 "Centralizando imagens de fundo"
 
-[Desafio0013](https://lucasfregolente.github.io/html-css/desafios/d0013/index.html)
+[Desafio013](https://lucasfregolente.github.io/html-css/desafios/d013/index.html)
 "Trabalhando com tabelas"
 
-[Desafio0014](https://lucasfregolente.github.io/html-css/desafios/d0014/index.html)
+[Desafio014](https://lucasfregolente.github.io/html-css/desafios/d014/index.html)
 "Trabalhando com tabelas 2"
 
 <hr>
