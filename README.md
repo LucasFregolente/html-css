@@ -76,6 +76,8 @@ As Atividades estão divididas de forma que eu possa acessar elas da forma clara
 
 [Exercicio024](https://lucasfregolente.github.io/html-css/exercicios/ex024/index.html) "Usando iframes!"
 
+[Exercicio025](https://lucasfregolente.github.io/html-css/exercicios/ex024/index.html) "Criando Formularios"
+
 <hr>
 
 ### Desafios (Testes de aprendizagem)
