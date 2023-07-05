@@ -78,6 +78,10 @@ As Atividades estão divididas de forma que eu possa acessar elas da forma clara
 
 [Exercicio025](https://lucasfregolente.github.io/html-css/exercicios/ex025/index.html) "Criando Formularios"
 
+[Exercicio026.1](https://lucasfregolente.github.io/html-css/exercicios/ex026/mq01/index.html) "Media Types"
+
+[Exercicio026.2](https://lucasfregolente.github.io/html-css/exercicios/ex026/mq02/index.html) "Media Features"
+
 <hr>
 
 ### Desafios (Testes de aprendizagem)
