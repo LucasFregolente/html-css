@@ -82,6 +82,10 @@ As Atividades estão divididas de forma que eu possa acessar elas da forma clara
 
 [Exercicio026.2](https://lucasfregolente.github.io/html-css/exercicios/ex026/mq02/index.html) "Media Features"
 
+[Exercicio026.2](https://lucasfregolente.github.io/html-css/exercicios/ex026/mq02/index.html) "Media Features"
+
+[Exercicio026.4](https://lucasfregolente.github.io/html-css/exercicios/ex026/mq04/index.html) "Usando Media Queries e Mobile First"
+
 <hr>
 
 ### Desafios (Testes de aprendizagem)
