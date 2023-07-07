@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Media Query</title>
 
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+
     <link rel="stylesheet" href="css/style.css" media="all">
 </head>
 
@@ -13,36 +15,67 @@
     <header>
         <h1>Meu Site</h1>
 
-        <nav>
-            <a href="#">Opção 1</a>
-            <a href="#">Opção 2</a>
-            <a href="#">Opção 3</a>
-            <a href="#">Opção 4</a>
-            <a href="#">Opção 5</a>
+        <span
+         id="menu-icon" class="material-symbols-outlined"
+         onclick="clickmenu()"> menu
+        </span>
+
+        <nav id="itens">            
+            <ul>
+                <li> <a href="#">Opção 1</a></li>
+                <li> <a href="#">Opção 2</a></li>
+                <li> <a href="#">Opção 3</a></li>
+                <li> <a href="#">Opção 4</a></li>
+                <li> <a href="#">Opção 5</a></li>
+            </ul>
         </nav>
     </header>
 
     <main>
-        <h2>Testando Media Queries</h2>
-
-        <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis consectetur nesciunt dolores quam vitae nemo porro repellat. Beatae dolorum quaerat nemo cumque maxime voluptatem laboriosam odio, voluptates optio commodi. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quo placeat ab iste reiciendis distinctio omnis hic obcaecati porro quod, itaque veniam quam voluptatibus! Iure, doloribus. Itaque iste sequi eos autem!            
-        </p>
-
-        <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis consectetur nesciunt dolores quam vitae nemo porro repellat. Beatae dolorum quaerat nemo cumque maxime voluptatem laboriosam odio, voluptates optio commodi. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quo placeat ab iste reiciendis distinctio omnis hic obcaecati porro quod, itaque veniam quam voluptatibus! Iure, doloribus. Itaque iste sequi eos autem!            
-        </p>
-
-        <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis consectetur nesciunt dolores quam vitae nemo porro repellat. Beatae dolorum quaerat nemo cumque maxime voluptatem laboriosam odio, voluptates optio commodi. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quo placeat ab iste reiciendis distinctio omnis hic obcaecati porro quod, itaque veniam quam voluptatibus! Iure, doloribus. Itaque iste sequi eos autem!            
-        </p>
-
+        <article>
+            <h2>Testando Media Queries</h2>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis consectetur nesciunt dolores quam
+                vitae
+                nemo porro repellat. Beatae dolorum quaerat nemo cumque maxime voluptatem laboriosam odio, voluptates
+                optio
+                commodi. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quo placeat ab iste reiciendis
+                distinctio
+                omnis hic obcaecati porro quod, itaque veniam quam voluptatibus! Iure, doloribus. Itaque iste sequi eos
+                autem!
+            </p>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis consectetur nesciunt dolores quam
+                vitae
+                nemo porro repellat. Beatae dolorum quaerat nemo cumque maxime voluptatem laboriosam odio, voluptates
+                optio
+                commodi. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quo placeat ab iste reiciendis
+                distinctio
+                omnis hic obcaecati porro quod, itaque veniam quam voluptatibus! Iure, doloribus. Itaque iste sequi eos
+                autem!
+            </p>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis consectetur nesciunt dolores quam
+                vitae
+                nemo porro repellat. Beatae dolorum quaerat nemo cumque maxime voluptatem laboriosam odio, voluptates
+                optio
+                commodi. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quo placeat ab iste reiciendis
+                distinctio
+                omnis hic obcaecati porro quod, itaque veniam quam voluptatibus! Iure, doloribus. Itaque iste sequi eos
+                autem!
+            </p>
+        </article>
     </main>
 
-    <footer>
-        <p>Site criado por <a href="#">Lucas Fregolente</a></p>
-    </footer>
-
+    <script>
+        function clickmenu() {
+            if (itens.style.display == 'block') {
+                itens.style.display = 'none'
+            } else {
+                itens.style.display = 'block'
+            }
+            
+        }
+    </script>
 </body>
-
 </html>
